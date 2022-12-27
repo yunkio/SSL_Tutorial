@@ -15,6 +15,7 @@
 
 ## 결과 정리
 
+![image](https://user-images.githubusercontent.com/35906602/209707595-c7f425cb-f196-4825-9b18-dddc0d7391d5.png)
 
 
 더 자세한 설명 및 실험 결과는 [Notebook](https://github.com/yunkio/SSL_Tutorial/blob/main/Tutorial.ipynb)을 참고 해주세요.
